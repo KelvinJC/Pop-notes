@@ -1,2 +1,2 @@
-# Pop-notes
-A personal notes tracker app
+# Pop-note
+A personal note taking app
